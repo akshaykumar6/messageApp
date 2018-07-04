@@ -1,7 +1,5 @@
 # message-app
 
-# message-app
-
 Sample web application to understand 12 factor app principles using docker.
 
 # Links
